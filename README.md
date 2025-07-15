@@ -8,6 +8,7 @@
 - Java | Spring Boot | Hibernate  
 - Frontend: HTML, CSS, JavaScript
 - Database: MySQL
+- Cybersecurity admirer
 
 
 ### 📌 Connect with Me  
