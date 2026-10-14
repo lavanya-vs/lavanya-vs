@@ -1,14 +1,15 @@
 
 # 👋 Hey, I'm Lavanya V S !  
 
-💻 Aspiring Java Full Stack Developer  
+💻 Java Developer  
 📚 Passionate about building scalable web applications  
 
-### 🌱 What I'm Learning  
+### 🌱
 - Java | Spring Boot | Hibernate  
-- Frontend: HTML, CSS, JavaScript
-- Database: MySQL
+- Frontend: HTML, CSS, JavaScript,React
+- Database: MySQL,Mongo
 - Cybersecurity admirer
+- Agentic AI enthusiast 
 
 
 ### 📌 Connect with Me  
